@@ -8,7 +8,9 @@ import java.util.ArrayList;
 import model.Produto;
 
 public class ArvoreAvl {
+	
 
+	
   protected No raiz;
 
 	public void inserir(Produto k) {

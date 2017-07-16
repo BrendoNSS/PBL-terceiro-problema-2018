@@ -111,8 +111,8 @@ public class Controller {
 		
 	}*/
 	
-	public void arvoreVetor(){
-		arvore.arvoreVetor(quantidadeMercadorias);
+	public Produto[] arvoreVetor(){
+		return arvore.arvoreVetor(quantidadeMercadorias);
 		
 	}
 	
